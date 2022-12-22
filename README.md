@@ -100,7 +100,7 @@ format:
 
 ## Survey
 
--  [Social Interactions for Autonomous Driving: A Review and Perspectives](https://arxiv.org/abs/2208.07541)
+-  [Social Interactions for Autonomous Driving: A Review and Perspectives](https://arxiv.org/abs/2208.07541)(**<font color="red">Ours!!!</font>**)
 	- Wenshuo Wang, Letian Wang, Chengyuan Zhang, Changliu Liu, Lijun Sun
 	- key: foundation and trends in robotics
 
@@ -114,11 +114,6 @@ format:
 
 ## Paper
 
-### AAAI
-
--  [Online Adaptation of Neural Network Models by Modified Extended Kalman Filter for Customizable and Transferable Driving Behavior Prediction](https://arxiv.org/abs/2112.06129) (**<font color="red">Ours!!!</font>**)
-	- Letian Wang, Yeping Hu, Changliu Liu
-	- Key: adaptability, evaluation metrics
 
 ### CVPR
 
@@ -200,6 +195,11 @@ format:
 	- Key: graph, multi-modal
 	- Dataset: [Argoverse](https://paperswithcode.com/dataset/argoverse), [CARLA](https://paperswithcode.com/dataset/carla)
 
+### AAAI
+
+-  [Online Adaptation of Neural Network Models by Modified Extended Kalman Filter for Customizable and Transferable Driving Behavior Prediction](https://arxiv.org/abs/2112.06129) (**<font color="red">Ours!!!</font>**)
+	- Letian Wang, Yeping Hu, Changliu Liu
+	- Key: adaptability, evaluation metrics
 
 ### CORL
 -  [MultiPath: Multiple Probabilistic Anchor Trajectory Hypotheses for Behavior Prediction](https://arxiv.org/abs/1910.05449)
